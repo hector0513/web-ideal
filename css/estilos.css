@@ -512,7 +512,7 @@ footer p {
 .footer-contact {
   width: 27%;
   margin: 0 auto;
-  padding-left: 5rem;
+  text-align: center;
 }
 
 .footer-contact i {
